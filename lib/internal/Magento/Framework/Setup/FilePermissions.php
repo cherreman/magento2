@@ -83,7 +83,6 @@ class FilePermissions
             $data = [
                 DirectoryList::CONFIG,
                 DirectoryList::VAR_DIR,
-                DirectoryList::MEDIA,
                 DirectoryList::STATIC_VIEW,
                 DirectoryList::GENERATED,
             ];
